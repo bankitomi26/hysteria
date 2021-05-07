@@ -26,9 +26,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
-                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Contact</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">Leírás</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projekt</a></li>
+                        <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#signup">Kapcsolat</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,7 +38,7 @@
             <div class="container d-flex h-100 align-items-center">
                 <div class="mx-auto text-center">
                     <h1 class="mx-auto my-0 text-uppercase">Hisztériák</h1>
-                    <h2 class="text-white-50 mx-auto mt-2 mb-5">Vallás a puszta ész határain belűl</h2>
+                    <h2 class="text-white-50 mx-auto mt-2 mb-5">"Materiam superabat opus"</h2>
                     <a class="btn btn-primary js-scroll-trigger" href="#about">A szépség ideája</a>
                 </div>
             </div>
@@ -48,15 +48,15 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
-                        <h2 class="text-white mb-4">Built with Bootstrap 4</h2>
+                        <h2 class="text-white mb-4">Intermediális magyarázatok</h2>
                         <p class="text-white-50">
-                            Grayscale is a free Bootstrap theme created by Start Bootstrap. It can be yours right now, simply download the template on
-                            <a href="https://startbootstrap.com/theme/grayscale/">the preview page</a>
-                            . The theme is open source, and you can use it for any purpose, personal or commercial.
+                            <p class="text-white-50">
+                                Képzőművészeti hibákat melyeket elkövet az alkotó a műalkotás készítésekor az utánzás során, önmagát és a nézőt meghazuttolva vált ki 
+                            <a href="https://www.youtube.com/watch?v=qIYG1NCdXm0">hisztériát</a>. A következő két projekt arra keresi a választ, hogy miként ragadható meg a alkotás által kiváltott hisztéria általánosítható magyarázata.
                         </p>
                     </div>
                 </div>
-                <img class="img-fluid" src="assets/img/ipad.png" alt="..." />
+                <img class="img-fluid" src="istockphoto-1142196147-612x612.jpg" alt="..." />
             </div>
         </section>
         <!-- Projects-->
@@ -64,23 +64,23 @@
             <div class="container">
                 <!-- Featured Project Row-->
                 <div class="row align-items-center no-gutters mb-4 mb-lg-5">
-                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="1581491143652 (2).jpg" alt="..." /></div>
+                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="https://www.researchgate.net/profile/Matthias-Kawski/publication/228780352/figure/fig1/AS:300748542890002@1448715448836/Image-compression-in-linear-algebra-here-using-SVD.png" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Shoreline</h4>
-                            <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+                            <h4>SVD, mint kategórikus imperatívusz</h4>
+                            <p class="text-black-50 mb-0">A kategorikus imperatívusz, - a legfőbb morális törvény - megfogalmazása Kant nevéhez fűződik. (Immanuel Kant: Gyakorlati ész kritikája.) A kategorikus imperatívusz (kategorikus-univerzális orientatív maxima) az erkölcs számára olyan abszolút mérce, amely által bármely cselekvési maxima és kötelesség ellenőrizhető és könnyen alkalmazható. A legfőbb morális törvény, bár univerzális, de semmit sem mond nekünk arról, hogy miképpen is kellene cselekednünk. Kant a tiszta, gyakorlati ész alaptörvényét, több variációban is megfogalmazta.</p>
                         </div>
                     </div>
                 </div>
                 <!-- Project One Row-->
                 <div class="row justify-content-center no-gutters mb-5 mb-lg-0">
-                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-01.jpg" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid" src="10k.jpg" alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Misty</h4>
-                                    <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                                    <h4 class="text-white">Misztifikáció</h4>
+                                    <p class="mb-0 text-white-50">A pop art művészet végképp nevetségessé teszi a tömeg fetisizált világát. A hisztéria tömegessé válik és a személyes közhellyé alakul. Nem csoda hát, hogy a képen is megváltozik a mondanivaló egy új kontextus által, mely a néző tekintetében születik újjá, ezzel mintegy újra hiszterizálva a műalotás értelmét. </p>
                                     <hr class="d-none d-lg-block mb-0 ml-0" />
                                 </div>
                             </div>
@@ -89,13 +89,13 @@
                 </div>
                 <!-- Project Two Row-->
                 <div class="row justify-content-center no-gutters">
-                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/demo-image-02.jpg" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid" src="svd painting.jpg" alt="..." /></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Mountains</h4>
-                                    <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                                    <h4 class="text-white">Demisztifikáció</h4>
+                                    <p class="mb-0 text-white-50">A kép nem látható rétegeiben megjelenik egy csotki (Jézus imafüzér). Erre a festményre épült a később gépileg elmosott kis cipő. Ebben az esetben nem a hasonlóság okozza a hisztériát kiváltó magyarázatot, hanem a nem látható rétegből adodó cím következménye a hazugság okozta hisztéria. </p>
                                     <hr class="d-none d-lg-block mb-0 mr-0" />
                                 </div>
                             </div>
@@ -110,10 +110,10 @@
                 <div class="row">
                     <div class="col-md-10 col-lg-8 mx-auto text-center">
                         <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Subscribe to receive updates!</h2>
+                        <h2 class="text-white mb-5">Iratkozzon fel a frissítések fogadására!</h2>
                         <form class="form-inline d-flex">
                             <input class="form-control flex-fill mr-0 mr-sm-2 mb-3 mb-sm-0" id="inputEmail" type="email" placeholder="Enter email address..." />
-                            <button class="btn btn-primary mx-auto" type="submit">Subscribe</button>
+                            <button class="btn btn-primary mx-auto" type="submit">Feliratkozás</button>
                         </form>
                     </div>
                 </div>
@@ -127,9 +127,9 @@
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Address</h4>
+                                <h4 class="text-uppercase m-0">Cím</h4>
                                 <hr class="my-4" />
-                                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                                <div class="small text-black-50">1034,Budapest,Pacsirtamező utca 24-26, II.em. 27. </div>
                             </div>
                         </div>
                     </div>
@@ -139,7 +139,7 @@
                                 <i class="fas fa-envelope text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Email</h4>
                                 <hr class="my-4" />
-                                <div class="small text-black-50"><a href="#!">hello@yourdomain.com</a></div>
+                                <div class="small text-black-50"><a href="#!">banki.tamas@kepzo.hu</a></div>
                             </div>
                         </div>
                     </div>
@@ -147,18 +147,13 @@
                         <div class="card py-4 h-100">
                             <div class="card-body text-center">
                                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
-                                <h4 class="text-uppercase m-0">Phone</h4>
+                                <h4 class="text-uppercase m-0">Mobil</h4>
                                 <hr class="my-4" />
-                                <div class="small text-black-50">+1 (555) 902-8832</div>
+                                <div class="small text-black-50">+36304136119</div>
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="social d-flex justify-content-center">
-                    <a class="mx-2" href="#!"><i class="fab fa-twitter"></i></a>
-                    <a class="mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
-                    <a class="mx-2" href="#!"><i class="fab fa-github"></i></a>
-                </div>
+                </div>                
             </div>
         </section>
         <!-- Footer-->
