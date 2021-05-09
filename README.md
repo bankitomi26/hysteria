@@ -48,7 +48,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 mx-auto">
-                        <h2 class="text-white mb-4">Intermediális magyarázatok</h2>
+                        <h2 class="text-white mb-4">Multimediális magyarázatok</h2>
                         <p class="text-white-50">
                             <p class="text-white-50">
                                 Képzőművészeti hibákat melyeket elkövet az alkotó a műalkotás készítésekor az utánzás során, önmagát és a nézőt meghazuttolva vált ki 
@@ -95,7 +95,7 @@
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
                                     <h4 class="text-white">Demisztifikáció</h4>
-                                    <p class="mb-0 text-white-50">A kép nem látható rétegeiben megjelenik egy csotki (Jézus imafüzér). Erre a festményre épült a később gépileg elmosott kis cipő. Ebben az esetben nem a hasonlóság okozza a hisztériát kiváltó magyarázatot, hanem a nem látható rétegből adodó cím következménye a hazugság okozta hisztéria. </p>
+                                    <p class="mb-0 text-white-50">A kép nem látható rétegeiben megjelenik egy csotki (Jézus imafüzér). Erre a festményre épült a később gépileg elmosott kis cipő. Ebben az esetben nem a összehasonlítás okozza a hisztériát kiváltó magyarázatot, hanem a nem látható rétegből adodó cím következménye a hazugság okozta hisztéria. </p>
                                     <hr class="d-none d-lg-block mb-0 mr-0" />
                                 </div>
                             </div>
